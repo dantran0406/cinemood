@@ -6,7 +6,7 @@ Le projet peut être visualisé de deux façons :
 
 1. **GitHub Pages** :  
    Le site est hébergé sur GitHub Pages et accessible via un lien direct, par exemple :  
-   `https://votre-utilisateur.github.io/cinemood/`
+   `https://dantran0406.github.io/cinemood/`
 
 2. **Localement** :  
    Pour tester le projet sur votre ordinateur :
