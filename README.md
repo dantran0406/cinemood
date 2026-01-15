@@ -1,20 +1,18 @@
-# cinemood
-Ce site web a été créé pour visualiser les films selon leurs émotions dominantes et leurs notes IMDb.        Vous pouvez filtrer les films par émotion, trier par année ou par note, et explorer les informations        détaillées de chaque film en survolant les posters. L'objectif est de rendre la découverte de films plus intuitive et amusante.
-## Visualiser le projet
+# CinéMood - Visualisation des Films et des Émotions
 
-Le projet peut être visualisé de deux façons :
+Projet web interactif pour visualiser des films selon leur émotion dominante et leur note IMDb.
 
-1. **GitHub Pages** :  
-   Le site est hébergé sur GitHub Pages et accessible via un lien direct, par exemple :  
-   `https://dantran0406.github.io/cinemood/`
+## Fonctionnalités principales
+- Introduction animée avec emojis et logo
+- Grille de films avec poster, titre, année, genre, score IMDb et émotion
+- Filtrage par émotion et tri par année / IMDb
+- Graphiques interactifs : histogramme des émotions et bubble chart IMDb vs année
 
-2. **Localement** :  
-   Pour tester le projet sur votre ordinateur :
-   - Ouvrez VS Code et installez l'extension **Live Server**, puis faites un clic droit sur `index.html → Open with Live Server`.
-   - Ou utilisez Node.js pour lancer un serveur local :  
-     ```bash
-     npx serve .
-     ```
-   - Ensuite, ouvrez votre navigateur à l'adresse affichée (par exemple `http://localhost:5000`).
+## Instructions pour lancer
+Le projet nécessite un serveur local pour fonctionner correctement :
+1. Ouvrir `index.html` via **Live Server** (VS Code)  
+ou
+2. Lancer un serveur local via Node.js :  
+   ```bash
+   npx serve .
 
-> Remarque : Ouvrir directement `index.html` sans serveur peut provoquer des erreurs à cause de restrictions CORS pour le fichier `movies.json`.
