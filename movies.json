@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Action, Adventure, Sci-Fi",
+    "imdb": 8.8,
+    "rotten": 87,
+    "emotion": "Action",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Matrix",
+    "year": 1999,
+    "genre": "Action, Sci-Fi",
+    "imdb": 8.7,
+    "rotten": 83,
+    "emotion": "Action",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Adventure, Drama, Sci-Fi",
+    "imdb": 8.7,
+    "rotten": 73,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action, Crime, Drama",
+    "imdb": 9.1,
+    "rotten": 94,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Parasite",
+    "year": 2019,
+    "genre": "Drama, Thriller",
+    "imdb": 8.5,
+    "rotten": 99,
+    "emotion": "Horrible",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Joker",
+    "year": 2019,
+    "genre": "Crime, Drama, Thriller",
+    "imdb": 8.3,
+    "rotten": 68,
+    "emotion": "Horrible",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY3OWQ5NDktNWQ2OC00ZjdlLThkMmItMDhhNDk3NTFiZGU4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Titanic",
+    "year": 1997,
+    "genre": "Drama, Romance",
+    "imdb": 7.9,
+    "rotten": 88,
+    "emotion": "Romance",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "genre": "Drama, Romance",
+    "imdb": 8.8,
+    "rotten": 75,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "year": 1994,
+    "genre": "Drama",
+    "imdb": 9.3,
+    "rotten": 89,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "La La Land",
+    "year": 2016,
+    "genre": "Comedy, Drama, Music",
+    "imdb": 8,
+    "rotten": 91,
+    "emotion": "Romance",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Her",
+    "year": 2013,
+    "genre": "Drama, Romance, Sci-Fi",
+    "imdb": 8,
+    "rotten": 95,
+    "emotion": "Romance",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Coco",
+    "year": 2017,
+    "genre": "Animation, Adventure, Drama",
+    "imdb": 8.4,
+    "rotten": 97,
+    "emotion": "Romance",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDIyM2E2NTAtMzlhNy00ZGUxLWI1NjgtZDY5MzhiMDc5NGU3XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Spirited Away",
+    "year": 2001,
+    "genre": "Animation, Adventure, Family",
+    "imdb": 8.6,
+    "rotten": 96,
+    "emotion": "Comédie",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": "Action, Adventure, Sci-Fi",
+    "imdb": 8.4,
+    "rotten": 94,
+    "emotion": "Action",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Iron Man",
+    "year": 2008,
+    "genre": "Action, Adventure, Sci-Fi",
+    "imdb": 7.9,
+    "rotten": 94,
+    "emotion": "Action",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Get Out",
+    "year": 2017,
+    "genre": "Horror, Mystery, Thriller",
+    "imdb": 7.8,
+    "rotten": 98,
+    "emotion": "Horrible",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SX300.jpg"
+  },
+  {
+    "title": "A Quiet Place",
+    "year": 2018,
+    "genre": "Drama, Horror, Sci-Fi",
+    "imdb": 7.5,
+    "rotten": 96,
+    "emotion": "Horrible",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Alien",
+    "year": 1979,
+    "genre": "Horror, Sci-Fi",
+    "imdb": 8.5,
+    "rotten": 93,
+    "emotion": "Horrible",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NhMDk2MmEtZDQzOC00MmY5LThhYzAtMDdjZGFjOGZjMjdjXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Godfather",
+    "year": 1972,
+    "genre": "Crime, Drama",
+    "imdb": 9.2,
+    "rotten": 97,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": 1994,
+    "genre": "Crime, Drama",
+    "imdb": 8.8,
+    "rotten": 92,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "genre": "Crime, Drama, Thriller",
+    "imdb": 8.8,
+    "rotten": 81,
+    "emotion": "Horrible",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Whiplash",
+    "year": 2014,
+    "genre": "Drama, Music",
+    "imdb": 8.5,
+    "rotten": 94,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Black Swan",
+    "year": 2010,
+    "genre": "Drama, Thriller",
+    "imdb": 8,
+    "rotten": 85,
+    "emotion": "Horrible",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Social Network",
+    "year": 2010,
+    "genre": "Biography, Drama",
+    "imdb": 7.8,
+    "rotten": 96,
+    "emotion": "Romance",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "genre": "Action, Drama, Mystery",
+    "imdb": 8,
+    "rotten": 88,
+    "emotion": "Romance",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg"
+  },
+  {
+    "title": "Dune",
+    "year": 1984,
+    "genre": "Action, Adventure, Sci-Fi",
+    "imdb": 6.3,
+    "rotten": 36,
+    "emotion": "Action",
+    "personal": 6,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGJlMGM3NDAtOWNhMy00MWExLWI2MzEtMDQ0ZDIzZDY5ZmQ2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Arrival",
+    "year": 2016,
+    "genre": "Drama, Mystery, Sci-Fi",
+    "imdb": 7.9,
+    "rotten": 94,
+    "emotion": "Romance",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "genre": "Comedy, Drama",
+    "imdb": 8.1,
+    "rotten": 92,
+    "emotion": "Romance",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Toy Story",
+    "year": 1995,
+    "genre": "Animation, Adventure, Comedy",
+    "imdb": 8.3,
+    "rotten": 100,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTA3OWVjOWItNjE1NS00NzZiLWE1MjgtZDZhMWI1ZTlkNzYwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Up",
+    "year": 2009,
+    "genre": "Animation, Adventure, Comedy",
+    "imdb": 8.3,
+    "rotten": 98,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmI1ZTc5MWMtMDYyOS00ZDc2LTkzOTAtNjQ4NWIxNjYyNDgzXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Lion King",
+    "year": 1994,
+    "genre": "Animation, Adventure, Drama",
+    "imdb": 8.5,
+    "rotten": 92,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGRiZDZhZjItM2M3ZC00Y2IyLTk3Y2MtMWY5YjliNDFkZTJlXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Tangled",
+    "year": 2010,
+    "genre": "Animation, Adventure, Comedy",
+    "imdb": 7.7,
+    "rotten": 89,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_SX300.jpg"
+  },
+  {
+    "title": "Gladiator",
+    "year": 2000,
+    "genre": "Action, Adventure, Drama",
+    "imdb": 8.5,
+    "rotten": 80,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWQ4YmNjYjEtOWE1Zi00Y2U4LWI4NTAtMTU0MjkxNWQ1ZmJiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "genre": "Action, Adventure, Sci-Fi",
+    "imdb": 8.1,
+    "rotten": 97,
+    "emotion": "Action",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDRkODJhOTgtOTc1OC00NTgzLTk4NjItNDgxZDY4YjlmNDY2XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "genre": "Adventure, Drama, Fantasy",
+    "imdb": 8.9,
+    "rotten": 91,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "genre": "Adventure, Drama, Fantasy",
+    "imdb": 8.8,
+    "rotten": 95,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "genre": "Adventure, Drama, Fantasy",
+    "imdb": 9,
+    "rotten": 94,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "year": 2001,
+    "genre": "Adventure, Family, Fantasy",
+    "imdb": 7.7,
+    "rotten": 80,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "year": 2004,
+    "genre": "Adventure, Family, Fantasy",
+    "imdb": 7.9,
+    "rotten": 91,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg"
+  },
+  {
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "genre": "Action, Adventure, Fantasy",
+    "imdb": 8.1,
+    "rotten": 79,
+    "emotion": "Action",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDhlMzEyNzItMTA5Mi00YWRhLThlNTktYTQyMTA0MDIyNDEyXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Jurassic Park",
+    "year": 1993,
+    "genre": "Action, Adventure, Sci-Fi",
+    "imdb": 8.2,
+    "rotten": 91,
+    "emotion": "Action",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Maclunkey Treasure Island: A Live Staged Reading of Star Wars - A New Hope",
+    "year": 2025,
+    "genre": "Comedy",
+    "imdb": null,
+    "rotten": null,
+    "emotion": "Comédie",
+    "personal": null,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2YwYmUwNjQtMzRmYy00OTJhLTkyYTgtYzg0MzQ1Yjk3NTNiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Star Wars: The Empire Strikes Back - The Original Radio Drama",
+    "year": 1983,
+    "genre": "Action, Adventure, Fantasy",
+    "imdb": 9,
+    "rotten": null,
+    "emotion": "Action",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTY2ZTNjMGItMTEyNy00ZDkxLTgzMmMtYzhiZGY2NzMxNjE0XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Star Wars: Return of the Jedi - The Original Radio Drama",
+    "year": 1996,
+    "genre": "Action, Adventure, Fantasy",
+    "imdb": 8,
+    "rotten": null,
+    "emotion": "Action",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjVkYzYxNGItZTk5MC00NGZlLWIxNjMtMjFjOTY5OGMyNmYwXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Inside Out",
+    "year": 2015,
+    "genre": "Animation, Adventure, Comedy",
+    "imdb": 8.1,
+    "rotten": 98,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Finding Nemo",
+    "year": 2003,
+    "genre": "Animation, Adventure, Comedy",
+    "imdb": 8.2,
+    "rotten": 99,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_SX300.jpg"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "year": 2001,
+    "genre": "Animation, Adventure, Comedy",
+    "imdb": 8.1,
+    "rotten": 96,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Shrek",
+    "year": 2001,
+    "genre": "Animation, Adventure, Comedy",
+    "imdb": 7.9,
+    "rotten": 88,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Hangover",
+    "year": 2009,
+    "genre": "Comedy",
+    "imdb": 7.7,
+    "rotten": 79,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDI2MzBhNzgtOWYyOS00NDM2LWE0OGYtOGQ0M2FjMTI2NTllXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Deadpool",
+    "year": 2016,
+    "genre": "Action, Comedy, Sci-Fi",
+    "imdb": 8,
+    "rotten": 85,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY3ZWU5NGQtOTViNC00ZWVmLTliNjAtNzViNzlkZWQ4YzQ4XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": 1991,
+    "genre": "Crime, Drama, Horror",
+    "imdb": 8.6,
+    "rotten": 95,
+    "emotion": "Horrible",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Se7en",
+    "year": 1995,
+    "genre": "Crime, Drama, Mystery",
+    "imdb": 8.6,
+    "rotten": 84,
+    "emotion": "Romance",
+    "personal": 9,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Me Before You",
+    "year": 2016,
+    "genre": "Drama, Romance",
+    "imdb": 7.4,
+    "rotten": 55,
+    "emotion": "Romance",
+    "personal": 7,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1_SX300.jpg"
+  },
+  {
+    "title": "Mulan",
+    "year": 1998,
+    "genre": "Animation, Adventure, Comedy",
+    "imdb": 7.7,
+    "rotten": 91,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzU0ZTQxZDktOGY0Yy00NjdiLTllNDItMTMzMjI1YjMyYjRhXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "My Neighbor Totoro",
+    "year": 1988,
+    "genre": "Animation, Adventure, Comedy",
+    "imdb": 8.1,
+    "rotten": 94,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  {
+    "title": "Howl's Moving Castle",
+    "year": 2004,
+    "genre": "Animation, Adventure, Family",
+    "imdb": 8.2,
+    "rotten": 88,
+    "emotion": "Comédie",
+    "personal": 8,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_SX300.jpg"
+  }
+]

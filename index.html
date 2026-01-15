@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>CinéMood: Films et émotions</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+  <div id="intro">
+    <canvas id="emoji-rain"></canvas>
+    <img src="logo.png" alt="CinéMood" id="logo">
+  </div>
+
+  <div id="main-content" style="display:none;">
+    <header id="page-header" style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+        <img src="logo.png" alt="CinéMood" id="header-logo">
+        <h1>Films et émotions</h1>
+    </header>
+    <section id="header-explanation">
+    <p>
+        <em>
+        Ce site web a été créé pour visualiser les films selon leurs émotions dominantes et leurs notes IMDb. 
+        Vous pouvez filtrer les films par émotion, trier par année ou par note, et explorer les informations 
+        détaillées de chaque film en survolant les posters. L'objectif est de rendre la découverte de films plus intuitive et amusante.
+        </em>
+    </p>
+    </section>
+
+
+    <section id="filters-section">
+    <h2>Filtrer par émotion</h2>
+        <div id="filters">
+            <label><input type="checkbox" value="Comédie" checked> Comédie</label>
+            <label><input type="checkbox" value="Romance" checked> Romance</label>
+            <label><input type="checkbox" value="Action" checked> Action</label>
+            <label><input type="checkbox" value="Horrible" checked> Horrible</label>
+        </div>
+    </section>
+
+
+    <section>
+    <h2>Grille des films</h2>
+        <div id="movie-grid"></div>
+        <div style="margin-top: 15px; text-align: center;">
+        <label for="sort-select">Trier :</label>
+        <select id="sort-select">
+            <option value="year-desc">Année ↓</option>
+            <option value="year-asc">Année ↑</option>
+            <option value="imdb-desc">IMDb ↓</option>
+            <option value="imdb-asc">IMDb ↑</option>
+        </select>
+        </div>
+    </section>
+
+    <section>
+      <h2>Répartition des émotions</h2>
+      <svg id="emotion-chart" width="600" height="300"></svg>
+      <p class="chart-explanation">
+        Ce diagramme montre la répartition des films selon l'émotion dominante : 
+        <strong>Comédie</strong>, <strong>Romance</strong>, <strong>Action</strong> ou <strong>Horrible</strong>.
+        La hauteur de chaque barre correspond au nombre de films pour cette émotion.
+      </p>
+    </section>
+
+    <section>
+      <h2>Bubble chart : IMDb / Année</h2>
+      <svg id="bubble-chart" width="800" height="400"></svg>
+      <p class="chart-explanation">
+        Chaque cercle représente un film. La position horizontale indique l'année de sortie, 
+      </br>la position verticale indique la note IMDb, et la couleur correspond à l'émotion dominante. 
+        La taille du cercle reflète également l'importance de la note IMDb.
+      </p>
+    </section>
+  </div>
+  <div id="tooltip" style="position:absolute;opacity:0;background:black;color:white;padding:5px;border-radius:4px;font-size:0.85rem;"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
